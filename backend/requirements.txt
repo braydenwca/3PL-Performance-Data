@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+sqlalchemy
+alembic
+python-multipart
+pydantic
+python-dateutil
